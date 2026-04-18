@@ -303,4 +303,3 @@ This frontend is tightly integrated with a **Spring Boot microservices backend**
 
 ---
 
-> 💡 *“Code. Debug. Improve. Repeat.”*
